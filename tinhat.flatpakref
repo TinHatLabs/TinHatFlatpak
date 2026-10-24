@@ -1,0 +1,13 @@
+[Flatpak Ref]
+Name=dev.tinhat.TinHat
+Branch=master
+Title=Tin Hat
+Url=https://flatpak.tinhat.dev/repo/
+Homepage=https://tinhat.dev/
+Comment=Tin Hat — group chat and calls for game nights
+Description=The Tin Hat desktop app for Linux.
+Icon=https://flatpak.tinhat.dev/tinhat.png
+GPGKey=mDMEatyEHRYJKwYBBAHaRw8BAQdAMGhEMSKhuk9B2BnP2zsWwVBfz1vtFWcuEUmqeCbuOb60GlRpbiBIYXQgRmxhdHBhayByZXBvc2l0b3J5iJAEExYKADgWIQQMAB6H/3pNavV224L9e6o02iu3wgUCatyEHQIbAwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRD9e6o02iu3wlrdAP9hondIwuh/qVspMIV8Pq4zi5CW5uulsGmHj4XnG5qKEQEA6bGSUu90lsY4q+GisPGguGEFzWgt+obOGQlPm7p3vgQ=
+IsRuntime=false
+SuggestRemoteName=tinhat
+RuntimeRepo=https://flathub.org/repo/flathub.flatpakrepo
